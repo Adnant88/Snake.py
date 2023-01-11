@@ -59,3 +59,8 @@ while True:
         segments = segments[-length:]
     pg.display.flip()
     clock.tick(60)
+
+    #adnanturkmen88@gmail.com
+    #https://www.linkedin.com/in/adnan-turkmen-911129125/
+    #https://adnanturkmen.tr.gg/
+    #https://www.instagram.com/adnant88/
